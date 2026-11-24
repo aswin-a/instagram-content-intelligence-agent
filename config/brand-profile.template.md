@@ -30,3 +30,12 @@ Add this to the Claude Project as a doc named **brand-profile**.
 - Claims we can make and prove:
 - Claims we must never make:
 - Endorsements we have confirmed are backed up (e.g. nutritionist-formulated, lab-tested):
+- Social proof figures are used as given. The brand is responsible for backing them up.
+
+## Content taxonomy
+Used to tag post records and to check the idea mix.
+- **Themes** (one per post):
+- **Segments** (who the post is for):
+- **Idea mix** (minimum counts in every set of 10 ideas, e.g. ≥ 2 life-stage, ≥ 2 education/trust, ≥ 2 customer-proof, ≥ 1 breed-specific):
+- **Breed / segment examples for specific ideas**:
+- **Gap angles to test** (things competitors might not be doing that we could own):

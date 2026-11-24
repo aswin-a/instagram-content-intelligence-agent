@@ -18,3 +18,4 @@ Add this to the Claude Project as a doc named **competitor-list**. Tiers set how
 ## Notes
 - Multi-category brands: analyse only <our category> content.
 - Look-alike handles to avoid: @... (not the brand; e.g. an unrelated business with a similar name)
+- Competitor analysis covers the accounts on this list plus any posts the team provides. A handle found while browsing that *looks like* a listed brand is treated as a different account until the team confirms it.
