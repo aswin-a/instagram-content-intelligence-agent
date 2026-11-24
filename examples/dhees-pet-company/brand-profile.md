@@ -18,7 +18,7 @@ The real configuration the agent was built for. All information here is public, 
 Chennai dog parents who treat their dogs as family and want to move off kibble. Neighbourhoods include Adyar, Anna Nagar, T. Nagar, Velachery, OMR, ECR, Porur, Mylapore, Besant Nagar, Tambaram and more.
 
 ## Conversion path
-- WhatsApp order, free-sample request, meal-plan consultation
+- WhatsApp order, free-sample request, meal-plan consultation (idea CTAs: usually WhatsApp or free sample)
 - Social proof: dog parent reviews (e.g. Rottweiler and Beagle owners), "1000+ meals served", "500+ happy pets"
 
 ## Tone and language
@@ -31,3 +31,12 @@ Freshly cooked to order · transparent macros · named real ingredients · local
 - Never: prevents/treats/cures disease (cancer, allergies, kidney disease, etc.) or guaranteed longer life
 - Not without confirmation: "vet approved", "clinically proven"
 - Prefer: ingredients, macros, freshness, delivery, real customer results (with permission)
+- Competitor health claims: a risk flag, not a tactic to copy
+
+## Content taxonomy
+- **Themes:** recipe/ingredient reveal, kibble vs fresh, behind-the-kitchen, unboxing/delivery, customer dog review, vet/nutrition education, dog reaction (taste test), puppy care tips, breed-specific tips, festival/seasonal, meme/relatable, offer/free sample
+- **Segments:** puppy / adult / senior / large breed / small breed / active / general
+- **Idea mix (per 10 ideas):** ≥ 2 puppy or life-stage · ≥ 2 education/trust · ≥ 2 customer-proof · ≥ 1 breed-specific
+- **Breed examples:** Rottweiler, Beagle, Labrador, Indie
+- **Gap angles to test:** Chennai neighbourhood angle, Tamil-language content, live kitchen transparency, macro breakdowns, Indie/Indian breed focus
+- **Trend scouting focus:** dog, pet, food and Chennai creators
