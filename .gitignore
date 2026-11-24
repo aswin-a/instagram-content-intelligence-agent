@@ -1,0 +1,4 @@
+# Local / private
+private/
+.env
+*.local.md
